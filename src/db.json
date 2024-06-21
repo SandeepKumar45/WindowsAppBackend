@@ -1,0 +1,39 @@
+{
+  "submissions": [
+    {
+      "Name": "Sandeep Jena",
+      "Email": "sandeep123@gmail.com",
+      "Phone": "1234568595",
+      "GithubLink": "https://github.com",
+      "StopwatchTime": "00:00:07"
+    },
+    {
+      "Name": "Rocky",
+      "Email": "rocky123@gmail.com",
+      "Phone": "1234558595",
+      "GithubLink": "https://github.com",
+      "StopwatchTime": "00:00:07"
+    },
+    {
+      "Name": "Babu Pandu",
+      "Email": "babu123@gmail.com",
+      "Phone": "8565478956",
+      "GithubLink": "https://github.com/babu_pandu",
+      "StopwatchTime": "00:00:04"
+    },
+    {
+      "Name": "Darsan Pandu",
+      "Email": "darsan48@gmail.com",
+      "Phone": "5489635478",
+      "GithubLink": "https://github.com/darsan_pandu",
+      "StopwatchTime": "00:00:05"
+    },
+    {
+      "Name": "pandi",
+      "Email": "pandi123@gmail.com",
+      "Phone": "9856457253",
+      "GithubLink": "https://github.com/pandi",
+      "StopwatchTime": "00:00:03"
+    }
+  ]
+}
